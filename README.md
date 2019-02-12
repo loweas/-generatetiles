@@ -3,7 +3,7 @@ This repository is to pratice adding generated tiles to a map. I used a light_al
 
 
 ## URL link
-https://loweas.github.io/generatetiles/index
+https://loweas.github.io/generatetiles/index.html
 
 Structure of this repository is:
 
